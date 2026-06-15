@@ -1,1 +1,1 @@
-{"team": "TODO", "members": [], "notes": ""}
+{"team": "2A202600756_LeThanhDat", "members": ["LeThanhDat"], "notes": "Public: 100.0/100 (108/120 correct, drift=0.971). Private: 92.0/100 (56/80 correct, drift=0.779, diag_F1=0.842). Key fixes: session_drift_rate=0 (eliminates coupon corruption), prompt_injection defense in prompt+wrapper, retry/cache/redact in wrapper, temperature=0.2, normalize_unicode=true, catalog_override cleared."}
