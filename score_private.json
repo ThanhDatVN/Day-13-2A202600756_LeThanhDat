@@ -1,0 +1,21 @@
+{
+  "team": "TenDoiCuaBan",
+  "phase": "private",
+  "headline": 86.43,
+  "sub": {
+    "correct": 0.7025,
+    "quality": 0.8206,
+    "error": 1.0,
+    "latency": 0.6848,
+    "cost": 0.1659,
+    "drift": 0.0,
+    "prompt": 0.8218
+  },
+  "diag_f1": 0.842,
+  "n": 80,
+  "n_correct": 55,
+  "judge_mode": "offline",
+  "weights_hash": "e81a8ed58d93",
+  "key_hash": "7e3905b75db0",
+  "sig": "f340f05c996f5da54c831090be72b8d09fd998bad4fea3d2aba13d72749d7d08"
+}
